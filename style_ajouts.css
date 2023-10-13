@@ -1,0 +1,32 @@
+header {
+    width: 50%;
+    margin:  auto;
+    text-align: center;
+    background-size: cover;
+}
+h1 span:first-letter {
+    color: white;
+    font-size: 1.5em;
+}
+body{
+    background-image: url(../images/pexels-pixabay-47730.jpg);
+    background-size: cover;
+}
+
+
+footer {
+    align-items: center;
+    background-image: url("https://img.uefa.com/imgml/uefacom/ucl/2021/logos/logo_dark.svg");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    background-size: 50px;
+  }
+  
+footer strong{
+    margin-left: 70px;
+  }
+ 
+
+footer span{
+    margin-left: 70px;
+  }
