@@ -27,7 +27,7 @@ Mise à jour dynamique de la feuille de match et de l'image de validation.
     styles/style_ajouts.css : Le répertoire contenant les fichiers CSS pour la mise en page.
     scripts/projet2023.js : Le répertoire contenant les fichiers JavaScript pour la logique de l'application.
     images/ : Le répertoire contenant les images utilisées dans l'application.
-    data/men.js,women.js : Le répertoire contenant des fichiers JSON avec les données des joueurs.
+data/men.js,women.js : Le répertoire contenant des fichiers JSON avec les données des joueurs.
 
 ## Technologies Utilisées
     HTML5
