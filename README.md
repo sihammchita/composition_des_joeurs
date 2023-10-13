@@ -25,7 +25,7 @@ Vérification de la validité de la formation de l'équipe.
 Mise à jour dynamique de la feuille de match et de l'image de validation.
 
 ## Structure du Projet
-mapetitCompo.html : La page HTML principale de l'application.
+mapetitCompo.html : La page HTML principale de l'application. 
 styles/ : Le répertoire contenant les fichiers CSS pour la mise en page.
 scripts/ : Le répertoire contenant les fichiers JavaScript pour la logique de l'application.
 images/ : Le répertoire contenant les images utilisées dans l'application.
